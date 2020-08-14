@@ -1,0 +1,3 @@
+take into account edges that are not currently tested
+
+draw into an offline canvas then call the paint method, generally speed it up
